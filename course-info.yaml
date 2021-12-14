@@ -1,0 +1,12 @@
+type: marketplace
+title: Programación con Python
+language: English
+summary: |-
+  Este es un curso introductorio a Python.
+  - Está dirigido a estudiantes principiantes que desean aprender Python.
+  - El curso cubre las característica básicas de Python.
+  - El curso contiene ejercicios que promueven el aprendizaje a través de la práctica.
+programming_language: Python
+environment: unittest
+content:
+- lesson1
