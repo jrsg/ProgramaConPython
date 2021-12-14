@@ -1,6 +1,6 @@
 type: marketplace
 title: Programación con Python
-language: English
+language: Spanish
 summary: |-
   Este es un curso introductorio a Python.
   - Está dirigido a estudiantes principiantes que desean aprender Python.
@@ -9,4 +9,4 @@ summary: |-
 programming_language: Python
 environment: unittest
 content:
-- lesson1
+- Unidad2
