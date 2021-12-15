@@ -2,7 +2,7 @@
 
 El comando `print()`, el cual es una de las directivas más sencillas de Python, simplemente imprime una línea de texto en la pantalla.
 
-En tu primer laboratorio:
+### Instrucciones
 
 1. Utiliza la función `print()` para imprimir la linea `"¡Hola, Mundo!"` en la pantalla.
 2. Una vez hecho esto, utiliza la función `print()` nuevamente, pero esta vez imprime tu nombre.
