@@ -1,11 +1,19 @@
-## Ejercicio 2.4
+# Ejercicio 2.4
 
 ### Instrucciones
 
-Modifica la línea **número 3** del código fuente, utilizando las palabras clave `sep` y `end`, para que coincida con el resultado esperado
+Copia y pega el siguiente fragmento de código:
+
+```
+print("Universidad", "Cristóbal", "Colón")
+```
+Realiza los ajustes necesarios al llamado de la función para que el texto luzca como a continuación:
 
 ### Resultado esperado
 
 ```
-Fundamentos***Programación***en...Python
+UniversidadCristóbalColón
 ```
+<div class="hint">
+  Utiliza un argumento de palabras clave
+</div>
