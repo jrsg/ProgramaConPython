@@ -4,21 +4,21 @@
 
 ### Instrucciones
 
-Copia el siguiente código y pégalo en el archivo de la solución:
+Utilizando la función `print()` 3 veces haz que aparezca el siguiente texto:
 
 ```
-print("Educar para servir")
-print()
-print("Es el lema de la Universidad Cristóbal Colón")
+"Educar para servir"
+
+"Es el lema de la Universidad Cristóbal Colón"
 ```
 
-Como verás, la función `print() vacía (sin argumentos) producirá una **nueva línea**.
+Como te das cuenta, la función `print()` vacía (sin argumentos) producirá una **nueva línea**.
 
 Otra manera de producir una línea es utilizando un **caracter de escape** y **salto de línea**.
 
 ### Instrucciones
 
-Nuevamente, copia el siguiente código y pégalo después de las instrucciones que copiaste arriba.
+Ahora, copia el siguiente código y pégalo sustituyendo el código que habías escrito anteriormente.
 
 ```
 print("Educar\npara\nservir")
