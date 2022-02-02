@@ -1,0 +1,7 @@
+El detalle del pago del trabajador es:
++Sueldo: $5300.0
++Despensa: $750.0
++Compensación: $350.0
+-Impuesto: $640.0
+-Gastos médicos: $960.0
+Total a recibir: $4800.0
