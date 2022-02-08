@@ -1,0 +1,7 @@
+print(70 + 8.80)
+print(35 / 5)
+print(63 % 7)
+print(106 // 4)
+print(-85 - 46)
+print(2.9 * 318)
+print(4.5 ** 8)
