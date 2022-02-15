@@ -1,7 +1,5 @@
-type: output
+type: theory
 files:
-- name: tests/output.txt
-  visible: false
 - name: __init__.py
   visible: false
 - name: main.py

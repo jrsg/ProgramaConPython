@@ -2,7 +2,7 @@ type: output
 files:
 - name: tests/output.txt
   visible: false
-- name: __init__.py
-  visible: false
 - name: main.py
   visible: true
+- name: __init__.py
+  visible: false
