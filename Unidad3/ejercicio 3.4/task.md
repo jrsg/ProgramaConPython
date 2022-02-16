@@ -5,13 +5,13 @@ Solicita al usuario un número entre 1 y 12, el programa deberá mostrar el nomb
 ```
 mes = 3
 ...
-El mes de marzo tiene 31 días`
+El mes de marzo tiene 31 días
 ```
 
 ```
 mes = 11
 ...
-El mes de noviembre tiene 30 días`
+El mes de noviembre tiene 30 días
 ```
 
 Reportar como error si el usuario escribe un número fuera del rango establecido.
