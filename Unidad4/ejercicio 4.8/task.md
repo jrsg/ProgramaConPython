@@ -8,10 +8,12 @@ Si el usuario acierta a 4 números ganadores el programa deberá mostrar:
 ```
 Si acierta a 5 números ganadores entonces el mensaje deberá ser:
 ```
-¡P R E M I O  M A Y O R! Números ganadores [#, #, #, #]
+¡P R E M I O  M A Y O R! Números ganadores [#, #, #, #, #]
 ```
 En cualquier otro caso:
 ```
 Suerte para la próxima
 ```
-Nota: utiliza en tu solución las listas `jugador` y `ganadores`. Haz uso de estructuras cíclicas y condicionales; métodos, instrucciones y operadores para trabajar con listas.
+Notas: 
+1. Utiliza en tu solución las listas `jugador` y `ganadores`. Haz uso de estructuras cíclicas y condicionales; métodos, instrucciones y operadores para trabajar con listas.
+2. Verifica que los números que escribe el usuario no se repitan.
