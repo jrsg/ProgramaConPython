@@ -9,4 +9,4 @@ Escribe una frase: Hola mundo desde la UCC
 La frase invertida des: CCU al edsed odnum aloH
 ```
 
-Nota: utiliza en tu solución los métodos de cadenas `split` y `join`.
+Nota: utiliza en tu solución el método de cadenas `join`.
