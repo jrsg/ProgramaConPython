@@ -4,10 +4,10 @@ Elabora un programa que calcule una contraseña generada aleatoriamente
 para cada usuario.
 
 La contraseña debe contar con las siguientes características:
-2. 2 letras minúsculas.
-3. 2 letras mayúsculas.
-4. 2 números.
-5. 2 símbolos.
+1. 2 letras minúsculas.
+2. 2 letras mayúsculas.
+3. 2 números.
+4. 2 símbolos.
 
 Ejemplo de una ejecución.
 
